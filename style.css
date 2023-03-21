@@ -1,0 +1,39 @@
+body{
+    background: #535353;
+}
+.card {
+    background: #fff;
+    border:  solid #000;
+    height: 500px;
+    width: 350px;
+    margin: 75px 0 0 545px;
+}
+.card-title {
+    text-align: center;
+    color: rgb(255, 47, 0);
+    margin: 0 0 15px 0;
+}
+.card-title_span{
+    color: #000000;
+}
+.card-image {
+    margin: 0 0 0 75px;
+    width: 200px;
+}
+.card-text{
+    color: rgb(255, 170, 0);
+    width: 200px;
+    margin: 10px 0 10px 75px;
+    border: 2px solid #ff0000;
+}
+.card-text_span{
+    color: rgb(143, 48, 0);
+}
+.card-box{
+    border: 2px solid #000;
+    width: 300px;
+    margin: 0 25px 0 25px;
+}
+.card-box_image {
+    width: 95px;
+}
